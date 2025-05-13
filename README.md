@@ -1,14 +1,4 @@
-Great — here’s your enhanced `README.md` for **TaskFlow**, now with:
-
-* ✅ GitHub-style badge icons
-* ✅ Supabase integration reference
-* ✅ Vercel deployment instructions
-* ✅ Professional formatting
-
----
-
-````markdown
-# 📋 TaskFlow – Project Management Dashboard
+ 📋 TaskFlow – Project Management Dashboard
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Next.js](https://img.shields.io/badge/Next.js-13.0.0-black?logo=next.js)](https://nextjs.org/)
@@ -16,11 +6,11 @@ Great — here’s your enhanced `README.md` for **TaskFlow**, now with:
 [![Supabase](https://img.shields.io/badge/Supabase-Backend-3ECF8E?logo=supabase)](https://supabase.com/)
 [![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://vercel.com)
 
-**TaskFlow** is a Trello/Asana-style project management dashboard for modern teams. Manage your tasks, projects, and workflows with an intuitive interface and real-time updates, powered by Supabase.
+TaskFlow is a Trello/Asana-style project management dashboard for modern teams. Manage your tasks, projects, and workflows with an intuitive interface and real-time updates, powered by Supabase.
 
 ---
 
-## 🚀 Tech Stack
+🚀 Tech Stack
 
 - **Frontend:** [Next.js](https://nextjs.org/)
 - **Backend:** [Supabase](https://supabase.com/)
