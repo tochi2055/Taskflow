@@ -106,8 +106,7 @@ Licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Victor Terry**
-[GitHub](https://github.com/victortterry) • [LinkedIn](https://linkedin.com/in/your-profile) • [Twitter](https://twitter.com/yourhandle)
-
+[GitHub](https://github.com/victortterry)
 ---
 
 ## 🤝 Contributing
