@@ -117,13 +117,6 @@ Please open an issue first to discuss your idea.
 
 ---
 
-```
 
----
 
-Let me know if you’d like:
 
-- A **`.env.local` template file** included
-- The **Supabase table schema**
-- Or help creating an **auth-protected dashboard** with RBAC (role-based access) using Supabase
-```
