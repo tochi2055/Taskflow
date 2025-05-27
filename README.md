@@ -30,9 +30,18 @@ TaskFlow is a Trello/Asana-style project management dashboard for modern teams. 
 
 ---
 
-## 🖼️ Screenshots
 
-> _Include GIFs or screenshots here to showcase the task dashboard, drag-and-drop, dark mode, etc._
+# Screenshots 
+![image](https://github.com/user-attachments/assets/a17437d0-c124-4b62-9138-278caac51520)
+![image](https://github.com/user-attachments/assets/97dd7d9b-a696-4d4a-b997-c3f5e3f3aa7c)
+![image](https://github.com/user-attachments/assets/aa3c969c-7877-47e8-bb44-a4276adb8755)
+![image](https://github.com/user-attachments/assets/0f405ee5-a365-42ce-95ac-b26c7997754d)
+![image](https://github.com/user-attachments/assets/9319d8ef-8f5f-4bf2-b467-cc438f4796bd)
+![image](https://github.com/user-attachments/assets/7c2fe59b-fa06-42df-a6b3-4abcbb443744)
+![image](https://github.com/user-attachments/assets/650f2006-ffc1-4544-b019-e2389d73be9d)
+
+
+
 
 ---
 
