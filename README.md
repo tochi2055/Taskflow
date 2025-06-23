@@ -84,11 +84,6 @@ TaskFlow is open-source software licensed under the [MIT License](https://openso
 
 ---
 
-## 👤 Author
-
-Created by [Victor Terry](https://github.com/victortterry)
-GitHub: [@victortterry](https://github.com/victortterry)
-
 ---
 
 ## 🤝 Contributing
